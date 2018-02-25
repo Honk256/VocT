@@ -1,4 +1,4 @@
 Most recently published app version:{3}
-download link for most recent APK: {test}
+download link for most recent APK: [test]
 
 
