@@ -1,3 +1,3 @@
-Most recently published app version:{6} - download link for most recent APK: {https://github.com/Honk256/VocT/blob/master/update/v6.apk}
+Latest:{6} - download link for APK: {https://github.com/Honk256/VocT/blob/master/update/v6.apk}
 
 
